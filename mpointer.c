@@ -1,9 +1,9 @@
+//inseong jeong
 #include<stdio.h>
 void func1(int*p);
 void func2(int**P);
 void func3(int***p);
 void func4(int****p);
-
 int main(){
         int i=100;
         int *p,**dp, ***tp;
@@ -50,5 +50,4 @@ void func4(int****p)
 {
         ****p=****p+100;
 }
-
 
