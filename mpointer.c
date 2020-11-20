@@ -1,4 +1,5 @@
-//I'm junny
+//inseong jeong
+//whoami
 #include<stdio.h>
 void func1(int*p);
 void func2(int**P);
